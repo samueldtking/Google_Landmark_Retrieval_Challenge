@@ -1,0 +1,13 @@
+
+02.02.2018
+- This is actually an unsupervised clutering problem
+- You have to take an image and bring up other images with the same landmarks in 
+- Therefore you need to create features for each of the images (using Neural Nets, probably CNN to create 'generalized' features)
+- And then cluster those images using clustering somehow (DB-Scan?) but maybe a new technique I don't even know yet
+- There will be a lot of tuning needed to find the general features of the image as well as the optimal cluster density etc
+- Actually sounds pretty cool though 
+- actually might be able to combine the NN and the clustering steps with CNN clustering (google it) 
+
+04.02.2018
+- download images 
+- 

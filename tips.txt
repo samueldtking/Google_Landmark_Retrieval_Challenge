@@ -1,0 +1,1 @@
+You should expect this challenge to involve a small amount of leakage on account of image metadata. The hosts have intentionally selected images that do not contain geolocation information, but there may be predictive information present in the Exif data. Since Kaggle can not detect whether this metadata is being used, consider its use to be permitted.
